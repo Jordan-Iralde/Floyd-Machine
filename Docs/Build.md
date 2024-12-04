@@ -12,8 +12,9 @@ OpenGL Installation Guide and Application Execution
         
         bash ./Floyd-Machine/lib-install/linux/sudo.sh
 
-      
-  <mark>or do it by your self using the next comands:
+  ---
+  
+  or do it by your self using the next comands:
 
   sudo apt update
 
