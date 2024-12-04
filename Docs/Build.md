@@ -25,6 +25,18 @@ OpenGL Installation Guide and Application Execution
     sudo apt install libgl-dev libglfw3-dev
 
   </mark>
+
+  ----> Then to execute
+
+    make
+
+  and
+
+    ./main
+
+
+  On the FM directory
+  
   
 </details>
 
