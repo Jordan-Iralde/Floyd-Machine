@@ -105,5 +105,5 @@ For questions, suggestions, or ideas, feel free to contact us:
 
 ## 📝 License
 
-This project is licensed under the **MIT License**.  
+This project is licensed under the **Apache-2.0 license**.  
 See the [LICENSE](LICENSE) file for more details.
