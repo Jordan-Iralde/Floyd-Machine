@@ -1,11 +1,13 @@
 #🚀 Floyd-Machine: Centralized Robotic Control System
+---
 
 Welcome to the Machine
 
 Floyd-Machine is a centralized control system designed to coordinate and optimize the performance of autonomous robots using advanced artificial intelligence. This project integrates virtual simulation with real-world deployment, achieving efficient and adaptable real-time control.
 
-##🧠 Project Vision
-  
+#🧠 Project Vision
+---
+
 Floyd-Machine oversees and coordinates multiple autonomous robots,     
 
 optimizing their performance across various tasks and environments.
@@ -18,7 +20,8 @@ Implement intelligent algorithms for autonomous tasks.
 
 Deploy a functional system in the real world with robustness and adaptability.
 
-##📦 Project Phases
+📦 Project Phases
+--
 
 Phase 0: Project Structure
 ---
