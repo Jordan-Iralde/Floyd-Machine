@@ -6,7 +6,7 @@ OpenGL Installation Guide and Application Execution
 
 <details>
   <summary>Linux</summary>
-    - To download OpenGL on Ubuntu, you can run the (sudo.sh) in (lib-install/linux/sudo.sh).
+    - To download OpenGL on Ubuntu, you can run the <mark>sudo.sh</mark> in <mark>lib-install/linux/sudo.sh</mark>.
 </details>
 
 <details>
@@ -15,3 +15,4 @@ OpenGL Installation Guide and Application Execution
 </details>
 
 
+<mark></mark>
