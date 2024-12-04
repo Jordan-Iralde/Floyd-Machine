@@ -22,7 +22,8 @@ Floyd-Machine is a centralized control system designed to coordinate and optimiz
 - **Actions**:
   - **Selection of Key Libraries**:
     - 🟢 **OpenGL**: 3D graphics rendering.
-    - 🟢 **GLM**: Mathematical calculations and graphic transformations.
+    - 🟢 **GLAD**: OpenGl Manager.
+    - 🟢 **Arduino**: To make the robots
   - **Code Structuring**:
     - Create a modular system for future scalability.
     - Design an adaptable architecture with support for AI and real-time simulation.
@@ -56,7 +57,8 @@ Floyd-Machine is a centralized control system designed to coordinate and optimiz
 
 ### **Main Libraries Used**
 - **OpenGL**: For advanced 3D rendering.
-- **GLM**: For mathematical calculations and geometric transformations.
+- **GLAD**: OpenGL Manager. to 
+- **Arduino**: Microcontroller
 
 ### **Other Tools (Evolving)**
 - Physical simulation systems.
@@ -75,6 +77,11 @@ Floyd-Machine is a centralized control system designed to coordinate and optimiz
 
 ---
 
+
+## 🚀 How To build
+  link to docs
+
+
 ## 📚 How to Contribute
 
 Interested in contributing?  
@@ -83,8 +90,8 @@ Follow these steps:
 1. **Fork** this repository.
 2. Create your branch (`git checkout -b feature/new-feature`).
 3. Commit your changes (`git commit -m "Added new feature"`).
-4. Push to your branch (`git push origin feature/new-feature`).
-5. Open a **pull request** and you're all set! 🚀
+4. Push to your branch (`git push origin feature/new-feature`),
+6. Open a **pull request** and you're all set! 🚀
 
 ---
 
