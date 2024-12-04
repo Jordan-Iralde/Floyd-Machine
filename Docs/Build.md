@@ -10,7 +10,7 @@ OpenGL Installation Guide and Application Execution
         in <mark>libinstall/linux/sudo.sh</mark>.
 
         
-        <b>bash ./Floyd-Machine/lib-install/linux/sudo.sh </b>
+        bash ./Floyd-Machine/lib-install/linux/sudo.sh
 
       
   or do it by your self using the next comands:
