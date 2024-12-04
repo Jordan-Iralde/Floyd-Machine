@@ -13,8 +13,7 @@ OpenGL Installation Guide and Application Execution
         bash ./Floyd-Machine/lib-install/linux/sudo.sh
 
       
-  or do it by your self using the next comands:
-
+  <mark>or do it by your self using the next comands:
 
   sudo apt update
 
@@ -24,6 +23,7 @@ OpenGL Installation Guide and Application Execution
   
   sudo apt install libgl-dev libglfw3-dev
 
+  </mark>
   
 </details>
 
