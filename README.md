@@ -79,7 +79,7 @@ Floyd-Machine is a centralized control system designed to coordinate and optimiz
 
 
 ## 🚀 How To build
-  link to docs
+  - <a href="Docs/build">How to build</a>
 
 
 ## 📚 How to Contribute
