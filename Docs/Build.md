@@ -26,7 +26,7 @@ OpenGL Installation Guide and Application Execution
 
   </mark>
 
-  ----> Then to execute
+  > Then to execute
 
     make
 
